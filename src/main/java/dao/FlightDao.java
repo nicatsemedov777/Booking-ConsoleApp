@@ -1,4 +1,4 @@
 package dao;
 
-public class FlightDao {
+public interface FlightDao  {
 }

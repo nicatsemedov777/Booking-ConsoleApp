@@ -1,4 +1,4 @@
 package dao;
 
-public class BookingDao {
+public interface BookingDao {
 }
